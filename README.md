@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently exploring Web Development<br>🌱 I’m currently a student at Amrita Vishwavidya Peetham , Amritapuri<br>💬 I am pursuing B Tech CSE<br>⚡ I love astronomy, coding and football
+🔭 I’m currently exploring CNNs<br>🌱 I’m currently a student at Amrita Vishwavidya Peetham , Amritapuri<br>💬 I am pursuing B Tech CSE<br>⚡ I love astronomy, coding and football
 
 
 ## 🌐 Socials:
